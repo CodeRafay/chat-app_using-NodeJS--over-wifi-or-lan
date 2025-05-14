@@ -25,8 +25,8 @@ A lightweight, real-time chat application built with Node.js and vanilla JavaScr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/CodeRafay/real-time-chat-app.git
-   cd real-time-chat
+   git clone https://github.com/CodeRafay/chat-app_using-NodeJS--over-wifi-or-lan.git
+   cd chat-app_using-NodeJS--over-wifi-or-lan
    ```
 
 2. Install dependencies:
